@@ -5,10 +5,10 @@
   facebook: ghost
   website: https://ghost.org/
   location: San Francisco
-- id: Another Author
-  avatar: avatars/ghost.png
-  bio: This is another test author with a profile background image
-  twitter: TryGhost
+- id: Mr. Fox
+  avatar: avatars/fox.png
+  bio: The main author of this blog
+  twitter: bnik
   facebook: ghost
   website: https://ghost.org/
   location: San Francisco
